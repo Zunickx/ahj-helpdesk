@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 function removeTicketCancelButtonHandler(mainContainer) {
   if (!mainContainer) return;
 
